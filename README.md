@@ -4,8 +4,6 @@ Portfolio artifact for SNHU CS250: Sprint Review and Retrospective.
 
 ## Artifact
 - **File:** `Cordero-Campos_Agile_Reflection.docx`
-- **Optional slides:** `ChadaTech_Agile_Presentation_Cordero-Campos.pptx`
-
 ## Reflection
 
 **How do I interpret user needs and implement them into a program? How do user stories help?**  
